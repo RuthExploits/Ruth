@@ -1,2 +1,2 @@
 # Ruth
-An Open-Source Roblox Exploit
+An Open-Source Roblox Exploit... Technically Ruled By licence GNU
